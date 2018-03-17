@@ -1,0 +1,26 @@
+centralized (SVN)
+distributed (GIT, MERCURRAL)
+
+create folder and file inside of it
+git init
+git status
+git add (file name)
+git config --global user.email
+git config --global user.name
+git commit -m "initial commit"
+git remote add origin (copy and paste the link from github)
+git push origin master
+git status (to check the pending file)
+git add (if there is pending file)
+git log (to see the old files)
+git reset --hard (copy the 7 leters and numbers from yellow lines)
+git remote rm origin
+git clone "link from github of others"
+go to folder of others
+add new file
+git add
+git commit -m "blah blah"
+git push origin master
+git pull (to pull the file to current terminal)
+
+git clone //////// of the other folder .git
